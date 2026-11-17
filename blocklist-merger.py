@@ -12,10 +12,24 @@ import requests
 
 from PySide6.QtCore import QObject, Signal
 from PySide6.QtWidgets import (
-    QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
-    QLabel, QPushButton, QFileDialog, QLineEdit, QProgressBar,
-    QTableWidget, QTableWidgetItem, QHeaderView, QMessageBox,
-    QGroupBox, QSpinBox, QTextEdit
+    QApplication,
+    QMainWindow,
+    QWidget,
+    QVBoxLayout,
+    QHBoxLayout,
+    QGridLayout,
+    QLabel,
+    QPushButton,
+    QFileDialog,
+    QLineEdit,
+    QProgressBar,
+    QTableWidget,
+    QTableWidgetItem,
+    QHeaderView,
+    QMessageBox,
+    QGroupBox,
+    QSpinBox,
+    QTextEdit
 )
 
 
